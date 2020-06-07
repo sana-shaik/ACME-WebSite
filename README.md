@@ -1,6 +1,7 @@
 # ACME-WebSite
 
-## Finished Project
+* ACME WebPage is a Responsive WebPage with HTML & CSS
+
 
 ### Home Page
 
